@@ -13,3 +13,8 @@ Video Link: [https://youtu.be/QZPv1y2znZo](https://youtu.be/QZPv1y2znZo)
 pip install pyinstaller
 pyinstaller --onefile -w calc.py
 ```
+
+
+iam ahammed sadhik
+
+from kollam
